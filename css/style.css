@@ -9,5 +9,5 @@ h2{
 .big{font-size:60px}
 .uppercase{text-transform: uppercase;}
 .big.uppercase{color:lightgray}
-body{background-color: black; font-family: Arial, Helvetica, sans-serif; color:whitesmoke}
+body{background-color: rgb(54, 54, 54); font-family: Arial, Helvetica, sans-serif; color:whitesmoke}
 a{color:azure}
